@@ -16,7 +16,7 @@ goals: List[Goal] = [
     {
         "title": "You have: ",
         "target": dt.datetime(
-            year=2025,
+            year=2026,
             month=3,
             day=3,
             hour=10,
@@ -27,7 +27,7 @@ goals: List[Goal] = [
     {
         "title": "First Assignment: ",
         "target": dt.datetime(
-            year=2023,
+            year=2027,
             month=11,
             day=6,
             hour=23,
