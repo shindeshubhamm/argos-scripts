@@ -23,3 +23,6 @@ $ chmod +x countdown.1s.py
 ```
 
 3. Add your goals to the `goals` list in the `countdown.1s.py` file. The first goal will be shown in the topbar. The rest will be visible on click.
+
+This is how the countdown timer looks in your topbar!
+![GIF](example.gif)
